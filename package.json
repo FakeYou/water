@@ -1,6 +1,6 @@
 {
-  "name": "logo",
-  "version": "0.0.0",
+  "name": "water",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FakeYou/logo.git"
+    "url": "http://github.com/fakeyou/water"
   },
   "author": "Andre Nanninga <ag.nanninga@gmail.com>",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FakeYou/logo/issues"
+    "url": "https://github.com/FakeYou/water/issues"
   },
-  "homepage": "https://github.com/FakeYou/logo",
+  "homepage": "https://github.com/FakeYou/water",
   "dependencies": {
   },
   "devDependencies": {
