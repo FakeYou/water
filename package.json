@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/FakeYou/water",
   "dependencies": {
+    "fast-simplex-noise": "^0.5.0"
   },
   "devDependencies": {
     "gulp-rename": "^1.2.0",
