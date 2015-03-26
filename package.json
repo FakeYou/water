@@ -1,0 +1,28 @@
+{
+  "name": "logo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeYou/logo.git"
+  },
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FakeYou/logo/issues"
+  },
+  "homepage": "https://github.com/FakeYou/logo",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-rename": "^1.2.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-browserify": "^0.5.1"
+  }
+}
